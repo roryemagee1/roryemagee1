@@ -1,7 +1,7 @@
 ### Contact:
 <a href="mailto:smmstl0@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://www.linkedin.com/in/roryemagee/"
+<a href="https://www.linkedin.com/in/roryemagee/" />
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ### Coding Skills:
